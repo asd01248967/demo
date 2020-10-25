@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "jasper今天去踩雷", "postId": 123 },
-    { "id": 2, "body": "jerry明天去踩雷", "postId": 456 },
-    { "id": 3, "body": "johnson每天都採雷", "postId": 789 }
+    { "id": 1, "body": "jasper今天去踩雷", "size": 123 },
+    { "id": 2, "body": "jerry明天去踩雷", "size": 456 },
+    { "id": 3, "body": "johnson每天都採雷", "size": 789 }
   ],
   "profile": {
     "name": "typicode"
